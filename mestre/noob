@@ -1,6 +1,6 @@
 #!/bin/bash
 cd $HOME
-    mv mb $PREFIX/bin/noob
+    mv noob $PREFIX/bin/noob
     chmod +x $PREFIX/bin/noob
 clear
 echo -e "\033[1;32mSEJAM CONSCIENTES, A DIVULGAÇÃO DE MÉTODOS NAS REDES SOCIAIS SÃO PREJUDICIAIS PARA TODOS QUE SE BENEFICIAM DA NET FREE. NÃO SEJAM RUINS PRESERVEM :)\033[1;37m"
